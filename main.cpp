@@ -35,10 +35,10 @@ int main(int argc, char** argv)
 {
     CommandLineParser parser(argc, argv,
         "{help  h           |            | Print this message}"
-        "{image1 i1         | igor1.png           | Path to the input image1. Omit for detecting through VideoCapture}"
+        "{image1 i1         |            | Path to the input image1. Omit for detecting through VideoCapture}"
         "{image2 i2         |           | Path to the input image2. When image1 and image2 parameters given then the program try to find a face on both images and runs face recognition algorithm}"
-        "{video v           |           | Path to the input video}"
-        "{scale sc          | 0.75          | Scale factor used to resize input video frames}"
+        "{video v           | 0         | Path to the input video}"
+        "{scale sc          | 1          | Scale factor used to resize input video frames}"
         "{fd_model fd       | face_detection_yunet_2022mar.onnx| Path to the model. Download yunet.onnx in https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet}"
         "{fr_model fr       | face_recognition_sface_2021dec-act_int8-wt_int8-quantized.onnx | Path to the face recognition model. Download the model at https://github.com/opencv/opencv_zoo/tree/master/models/face_recognition_sface}"
         "{score_threshold   | 0.9        | Filter out faces of score < score_threshold}"

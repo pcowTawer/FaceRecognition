@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/PCOW/Desktop/OPD_OpenCV/build"
+			"value" : "c:/Users/PCOW/Desktop/FaceRecognition/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PCOW/Desktop/OPD_OpenCV/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/PCOW/Desktop/FaceRecognition/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/PCOW/Desktop/OPD_OpenCV"
+			"value" : "C:/Users/PCOW/Desktop/FaceRecognition"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PCOW/Desktop/OPD_OpenCV/build"
+			"value" : "C:/Users/PCOW/Desktop/FaceRecognition/build"
 		},
 		{
 			"name" : "opencv_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PCOW/Desktop/OPD_OpenCV"
+			"value" : "C:/Users/PCOW/Desktop/FaceRecognition"
 		}
 	],
 	"kind" : "cache",
